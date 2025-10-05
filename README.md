@@ -1,1 +1,1 @@
-# korta0510
+# NkortaQR
